@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6614b1c0-5c01-4d17-b89d-e222f6910448" name="Default Changelist" comment="" />
+    <list default="true" id="6614b1c0-5c01-4d17-b89d-e222f6910448" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bai-tap/Deployment-method-arrayList/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai-tap/Deployment-method-linkedlist/LinkList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai-tap/Deployment-method-linkedlist/Node.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai-tap/Deployment-method-arrayList/MyList.php" beforeDir="false" afterPath="$PROJECT_DIR$/bai-tap/Deployment-method-arrayList/MyList.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +16,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lyBhN5CzbLT0p6aIszZHH4b44F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,10 +53,23 @@
       <workItem from="1608559569626" duration="2358000" />
       <workItem from="1608599584433" duration="640000" />
       <workItem from="1608606054735" duration="55000" />
+      <workItem from="1608787964924" duration="7000" />
+      <workItem from="1608863259895" duration="307000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
